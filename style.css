@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>MySite</title>
+  </head>
+   <body> { font-family: Arial, Helvetica, sans-serif; }
+   .container {
+    width: 800px;
+    margin: 0 auto;
+}
+#main {
+  background: url(images/11337111-blue-seamless-snowflakes-pattern-vector-snow-background-christmas-illustration-can-be-used-for-wallpaper-pattern-fills-textile-web-page-background-surface-textures.jpg) repeat-x;
+  height: 170px;
+}
+#logo {
+    background: url(images/resortlogo_killington.png) no-repeat;
+    height: 132px;
+    width: 456px;
+    float: left;
+    padding-top: 10px;
+}
+
+#header {
+    padding-top: 10px;
+}
+
+ul#menu {
+    list-style: none;
+}
+
+ul#menu li a {
+    font-size: 30px;
+    color: #676666;
+    text-decoration: none;
+}
+
+ul#menu li {
+    float: left;
+}
+ul#menu {
+    list-style: none;
+    padding-top: 55px;
+}
+
+ul#menu li {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#content h2 {
+    font-size: 36px;
+    color: black;
+   padding-top: 25px;
+}
+
+#content h3 {
+    font-size: 24px;
+    color: #444444;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#content h4 {
+    font-size: 18px;
+    color: blue;
+    font-weight: normal;
+}
+
+#content p {
+    font-size: 14px;
+    color: green;
+    padding-top: 20px;
+}
+
+#content small {
+    font-size: 12px;
+    color: red;
+}
+
+#content a {
+    color: White;
+    font-weight: bold;
+    text-decoration: none;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #9AC4DE;
+}
+#news {
+    padding-top: 10px;
+}
+
+#news h3 {
+    padding-bottom: 10px;
+}
+
+#news p {
+    padding-top: 10px;
+    padding-bottom: 14px;
+}
+#footer {
+    background: url(images/11337111-blue-seamless-snowflakes-pattern-vector-snow-background-christmas-illustration-can-be-used-for-wallpaper-pattern-fills-textile-web-page-background-surface-textures.jpg) repeat-x;
+    height: 170px;
+}
+
+
+body,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+img {margin:0px; padding:0px; }
